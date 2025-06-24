@@ -1,2 +1,4 @@
-# NVIDIA HPC SDK: https://developer.nvidia.com/hpc-sdk
-FROM nvcr.io/nvidia/nvhpc:25.5-devel-cuda12.9-ubuntu24.04
+# NVIDIA HPC SDK
+# https://developer.nvidia.com/hpc-sdk
+# https://catalog.ngc.nvidia.com/orgs/nvidia/containers/nvhpc
+FROM nvcr.io/nvidia/nvhpc:25.5-devel-cuda_multi-ubuntu24.04
