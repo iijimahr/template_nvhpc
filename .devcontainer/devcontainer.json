@@ -23,7 +23,6 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"Anjali.clipboard-history",
 				"nvidia.nsight-vscode-edition",
 				"ms-vscode.cpptools",
 				"twxs.cmake"
